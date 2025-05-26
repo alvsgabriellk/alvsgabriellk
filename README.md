@@ -1,22 +1,22 @@
 <h1 align="center">Cauã Gabriell</h1>
-<h3 align="center">Futuro Dev Back-end & Cyber Security Specialist</h3>
+<h3 align="center">Futuro Dev Back-end & Cyber Security Specialist 🚀</h3>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Gabriell%20Profile&fontSize=40&fontColor=FFD700"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=200&section=header&text=Gabriell%20Profile&fontSize=40&fontColor=FF6600"/>
 
 ---
 
-## 🎯 Sobre mim
+# Curiosidades
 
 - 🎓 Universitário em Análise e Desenvolvimento de Sistemas
 - 💻 Apaixonado por segurança cibernética e desenvolvimento back-end
-- 🙏 Fé em Deus sempre me guiando
-- 🛠️ Sempre buscando novos desafios e aprendizados
+-  Fé em Deus sempre me guiando
+-  Sempre buscando novos desafios e aprendizados
 
 ---
 
-## 🛠️ Hard Skills
+# Hard Skills
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -31,7 +31,7 @@
 
 ---
 
-## 💡 Soft Skills
+# Soft Skills
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Logic" height="30" width="30" src="https://img.icons8.com/fluency/48/brain.png"/> Raciocínio lógico  
@@ -45,45 +45,35 @@
 
 ---
 
-## 🛠️ IDEs & Ferramentas
+# IDEs & Ferramentas
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="PyCharm" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
   <img align="center" alt="GitHub" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="VM" height="30" width="30" src="https://img.icons8.com/color/48/virtual-machine.png"> Máquina Virtual (VM)
 </div>
 
 ---
 
-## 🎵 Ouvindo agora
+# Ouvindo agora
 
 [![Spotify](https://novatorem-alvsgabriellk.vercel.app/api/spotify)](https://open.spotify.com/user/)
 
 ---
 
-## 📊 Estatísticas
+# Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvsgabriellk&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=FFD700&bg_color=8A2BE2"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=alvsgabriellk&theme=highcontrast&hide_border=true&background=8A2BE2&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvsgabriellk&show_icons=true&theme=radical&title_color=FF6600&icon_color=FF6600&text_color=FF6600&bg_color=008000"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=alvsgabriellk&theme=highcontrast&hide_border=true&background=008000&ring=FF6600&fire=FF6600&currStreakLabel=FF6600"/>
 </div>
 
 ---
 
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alvsgabriellk&theme=algolia&no-frame=true&no-bg=true&title=Followers,Stars,Commit,PullRequest,Issues&margin-w=15&title_color=FFD700"/>
-</div>
+> **"Código é poesia, exploit é arte"**
 
 ---
 
-## 🚀 Frase de impacto
-
-> **"código é poesia, exploit é arte!."**
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=150&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6600&height=150&section=footer"/>

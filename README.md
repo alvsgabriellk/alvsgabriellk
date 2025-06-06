@@ -3,16 +3,19 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=200&section=header&text=Gabriell%20Profile&fontSize=40&fontColor=FF6600"/>
-
----
-
 # Curiosidades
 
 - 🎓 Universitário em Análise e Desenvolvimento de Sistemas
 - 💻 Apaixonado por segurança cibernética e desenvolvimento back-end
--  Fé em Deus sempre me guiando
 -  Sempre buscando novos desafios e aprendizados
+
+---
+
+# Redes Sociais
+
+[![LINKEDIN](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http aqui)
+[![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cau_gabriell_61393d51c81)
+[![REDDIT](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/CryAdministrative125/)
 
 ---
 
@@ -52,28 +55,6 @@
   <img align="center" alt="PyCharm" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
   <img align="center" alt="GitHub" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="VM" height="30" width="30" src="https://img.icons8.com/color/48/virtual-machine.png"> Máquina Virtual (VM)
 </div>
 
----
 
-# Ouvindo agora
-
-[![Spotify](https://novatorem-alvsgabriellk.vercel.app/api/spotify)](https://open.spotify.com/user/)
-
----
-
-# Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvsgabriellk&show_icons=true&theme=radical&title_color=FF6600&icon_color=FF6600&text_color=FF6600&bg_color=008000"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=alvsgabriellk&theme=highcontrast&hide_border=true&background=008000&ring=FF6600&fire=FF6600&currStreakLabel=FF6600"/>
-</div>
-
----
-
-> **"Código é poesia, exploit é arte"**
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6600&height=150&section=footer"/>

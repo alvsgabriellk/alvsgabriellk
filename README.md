@@ -1,5 +1,5 @@
 <h1 align="center">Cauã Gabriell</h1>
-<h3 align="center">Futuro Dev Back-end & Cyber Security</h3>
+<h3 align="center">Futuro Dev Back-end</h3>
 
 ---
 

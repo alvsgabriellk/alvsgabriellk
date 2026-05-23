@@ -27,11 +27,6 @@ class CauaGabriell:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvsgabriellk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvsgabriellk&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvsgabriellk&theme=radical&hide_border=true" />
 </div>
 
@@ -78,8 +73,3 @@ class CauaGabriell:
   <img align="center" alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
 </div><br/>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alvsgabriellk&color=00ff94&style=flat-square&label=Visitas+no+perfil" />
-</div>
